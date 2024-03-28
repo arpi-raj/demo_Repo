@@ -1,6 +1,0 @@
-Existing folder on local adding to git
-git remote -v to check version 
-git init initializes the repo 
-git remote add origin <<url>>.git to add
-git add <<file>> add the files 
-git push origin master
